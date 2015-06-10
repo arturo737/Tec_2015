@@ -20,3 +20,4 @@ Ventajas
 REPOSITORIO, Base de datos atómica, es decir proyectos
 
 Agregamos otra cosa
+QUE SUCEDUO
