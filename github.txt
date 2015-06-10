@@ -18,3 +18,5 @@ Ventajas
 	master (servidor.com) REPO PRODUCCION
 
 REPOSITORIO, Base de datos atómica, es decir proyectos
+
+Agregamos otra cosa
