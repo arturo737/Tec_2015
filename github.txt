@@ -1,0 +1,20 @@
+Sistema de Control de versiones
+
+SVN:Subversion /Mercurial/ TFS/ CVS/ GIT
+Github: Aplicación web. Red social de programadores. Repositorios
+
+Repositorio de código GITHUB(master)
+	Clon local
+		commit -syncronización
+
+Ventajas
+1.- Múltiples versiones del mismo código
+2.- Base de Datos Atómica. Cambios delta. Si modifico dos lineas, solo esas lineas se envían.
+3.- Historial de cada archivo
+4.- Múltiples personas trabajan sobre el mismo archivo
+5.- Ramas (branches)
+	master (github.com)REPO PRINCIPAl versión maestra
+	master (disco duro)REPO LOCAL
+	master (servidor.com) REPO PRODUCCION
+
+REPOSITORIO, Base de datos atómica, es decir proyectos
